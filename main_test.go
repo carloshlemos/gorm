@@ -20,12 +20,12 @@ import (
 	"time"
 
 	"github.com/erikstmartin/go-testdb"
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/mssql"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
-	_ "github.com/jinzhu/gorm/dialects/oci8"
-	"github.com/jinzhu/gorm/dialects/postgres"
-	_ "github.com/jinzhu/gorm/dialects/sqlite"
+	"github.com/carloshlemos/gorm"
+	_ "github.com/carloshlemos/gorm/dialects/mssql"
+	_ "github.com/carloshlemos/gorm/dialects/mysql"
+	_ "github.com/carloshlemos/gorm/dialects/oci8"
+	"github.com/carloshlemos/gorm/dialects/postgres"
+	_ "github.com/carloshlemos/gorm/dialects/sqlite"
 	"github.com/jinzhu/now"
 )
 

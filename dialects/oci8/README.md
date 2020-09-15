@@ -76,7 +76,7 @@ $ go test -v  -run Test_Connection
 --- PASS: Test_Connection (0.06s)
     connection_test.go:29: The date is: 2020-02-14T20:09:37Z
 PASS
-ok      github.com/jinzhu/gorm/dialects/oci8    1.609s
+ok      github.com/carloshlemos/gorm/dialects/oci8    1.609s
 ```
 
 ## Running Oracle in Docker

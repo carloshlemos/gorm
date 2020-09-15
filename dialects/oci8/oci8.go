@@ -2,7 +2,7 @@
 package oci8
 
 import (
-	"github.com/jinzhu/gorm"
+	"github.com/carloshlemos/gorm"
 	// go-oci8 imported for the driver
 	_ "github.com/mattn/go-oci8"
 )
